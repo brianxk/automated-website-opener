@@ -6,8 +6,8 @@ While various bulk URL openers exist on the Chrome Web Store, this one is open s
 Automation is handled using Selenium and chromedriver.
 
 Requirements:
-*pip
-*Selenium
-*Up-to-date Chrome installation
+- pip
+- Selenium
+- Up-to-date Chrome installation
 
 NOTE: While a up-to-date Chrome installation is required, chromedriver itself is *not* required. The Python script will automatically download the latest chromedriver.
