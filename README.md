@@ -11,3 +11,9 @@ Requirements:
 - Up-to-date Chrome installation
 
 NOTE: While a up-to-date Chrome installation is required, chromedriver itself is *not* required. The Python script will automatically download the latest chromedriver.
+
+
+Future goals:
+- parallel processing
+
+Please don't hesitate to reach out if you wish to help implement future goals!
